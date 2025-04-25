@@ -1,7 +1,7 @@
 const AddTaskForm = ({ newTask, setNewTask, addTask }) => {
     return(
       <>
-        {/* Add Task */}
+        <h2>Add Task</h2>
         <div className="row">
           <div className="col">
             <input 
